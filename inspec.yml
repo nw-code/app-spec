@@ -1,0 +1,5 @@
+name: profile-tiny_app
+title: Tiny App Profile
+version: 0.1.0
+supports:
+- platform-family: redhat
